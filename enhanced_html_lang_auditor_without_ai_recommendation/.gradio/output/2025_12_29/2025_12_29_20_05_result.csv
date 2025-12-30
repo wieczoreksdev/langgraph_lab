@@ -1,5 +1,0 @@
-url,current_url,html_lang_raw,normalized_lang,lang_detected,is_match,is_iana_valid,status,recommendation,redirect_info
-https://www.pmi.com/,https://www.pmi.com/,en,en,en,True,True,Keep,Perfect,200
-https://www.pmi.com/markets/algeria/fr/overview,https://www.pmi.com/markets/algeria/fr/overview/,fr-DZ,fr,fr,True,True,Keep,Perfect,200_redirected
-https://www.pmi.com/markets/algeria/fr/overview/,https://www.pmi.com/markets/algeria/fr/overview/,fr-DZ,fr,fr,True,True,Keep,Perfect,200
-https://www.pmi.com/markets/algeria/en/overview/,https://www.pmi.com/markets/algeria/en/overview/,en-DZ,en,en,True,True,Keep,Perfect,200
