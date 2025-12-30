@@ -1,0 +1,4 @@
+url,current_url,html_lang_raw,normalized_lang,lang_detected,is_match,is_iana_valid,status,recommendation,redirect_info,ai_recommended,ai_reason,human_override,ai_model,ai_timestamp
+https://www.pmi.com/,https://www.pmi.com/,en,en,en,True,True,Keep,Perfect,200,error_parsing,,,gpt-4o-mini-agentic,2025-12-29T23:37:31.777156
+https://www.pmi.com/markets/algeria/fr/overview/,https://www.pmi.com/markets/algeria/fr/overview/,fr-DZ,fr,fr,True,True,Keep,Perfect,200,error_parsing,,,gpt-4o-mini-agentic,2025-12-29T23:37:31.777156
+https://www.pmi.com/markets/algeria/en/overview/,https://www.pmi.com/markets/algeria/en/overview/,en-DZ,en,en,True,True,Keep,Perfect,200,error_parsing,,,gpt-4o-mini-agentic,2025-12-29T23:37:31.777156
